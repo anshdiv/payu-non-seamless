@@ -1,6 +1,6 @@
 PayU non-seamless
 ============================
-[![Platform](https://img.shields.io/badge/platform-android-green.svg)](http://developer.android.com/index.html)
+[![](https://jitpack.io/v/anshdiv/payu-non-seamless.svg)](https://jitpack.io/#anshdiv/payu-non-seamless)
 
 
 Prerequisites
