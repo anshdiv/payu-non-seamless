@@ -30,6 +30,11 @@ Create an PayConfig object and set the values accordingly:
         payUConfig.setProductInfo("Shopping");
         payUConfig.setEmail("abc@gmail.com");
         payUConfig.setPhonenumber("999999999");
+	payUConfig.setMode(PayU.TEST_MODE); // by default is Test Mode
+	payUConfig.setMerchantKey("hjdhsd);
+	payUConfig.setSalt("hjdhskdfd);
+
+	
 ```
 
 StartActivity for result
