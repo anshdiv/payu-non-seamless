@@ -1,11 +1,11 @@
 PayU non-seamless
-============================
+============================================================================================================================
 [![Platform](https://img.shields.io/badge/platform-android-green.svg)](http://developer.android.com/index.html)
 [![](https://jitpack.io/v/anshdiv/payu-non-seamless.svg)](https://jitpack.io/#anshdiv/payu-non-seamless)
 
 
 Prerequisites
------
+----------------------------------------------------------------------------------------------------------------------------
 1. Create Payu Merchant account and complete profile by submitting the documents.<br />
 2. Contact PayU customer executive to activate account.<br />
 3. Find PayU Merchant key and Salt from Payu Account section.<br />
@@ -20,7 +20,7 @@ There are two modes for this:
 
 
 Usage
------
+----------------------------------------------------------------------------------------------------------------------------
 
 Create an PayConfig object and set the values accordingly:
 ```java
@@ -68,7 +68,7 @@ Don't forget to mention PayMoneyActivity in Manifest file
 ```
 
 Download
--------
+----------------------------------------------------------------------------------------------------------------------------
 
 1. Add it in your root build.gradle at the end of repositories:
 
@@ -88,7 +88,7 @@ dependencies {
 ```
 
 License
--------
+----------------------------------------------------------------------------------------------------------------------------
 
       Copyright 2018 Anshul Gour
    
