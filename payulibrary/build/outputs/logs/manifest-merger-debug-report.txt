@@ -1,35 +1,37 @@
 -- Merging decision tree log ---
 manifest
-ADDED from F:\Projects\Demo\payulibrary\src\main\AndroidManifest.xml:1:1-43
-INJECTED from F:\Projects\Demo\payulibrary\src\main\AndroidManifest.xml:1:1-43
-INJECTED from F:\Projects\Demo\payulibrary\src\main\AndroidManifest.xml:1:1-43
-INJECTED from F:\Projects\Demo\payulibrary\src\main\AndroidManifest.xml:1:1-43
-INJECTED from F:\Projects\Demo\payulibrary\src\main\AndroidManifest.xml:1:1-43
-INJECTED from F:\Projects\Demo\payulibrary\src\main\AndroidManifest.xml:1:1-43
-INJECTED from F:\Projects\Demo\payulibrary\src\main\AndroidManifest.xml:1:1-43
+ADDED from F:\Projects\payu-non-seamless\payulibrary\src\main\AndroidManifest.xml:1:1-43
+INJECTED from F:\Projects\payu-non-seamless\payulibrary\src\main\AndroidManifest.xml:1:1-43
+INJECTED from F:\Projects\payu-non-seamless\payulibrary\src\main\AndroidManifest.xml:1:1-43
+INJECTED from F:\Projects\payu-non-seamless\payulibrary\src\main\AndroidManifest.xml:1:1-43
+INJECTED from F:\Projects\payu-non-seamless\payulibrary\src\main\AndroidManifest.xml:1:1-43
+INJECTED from F:\Projects\payu-non-seamless\payulibrary\src\main\AndroidManifest.xml:1:1-43
+INJECTED from F:\Projects\payu-non-seamless\payulibrary\src\main\AndroidManifest.xml:1:1-43
 	package
-		ADDED from F:\Projects\Demo\payulibrary\src\main\AndroidManifest.xml:1:11-40
-		INJECTED from F:\Projects\Demo\payulibrary\src\main\AndroidManifest.xml
-		INJECTED from F:\Projects\Demo\payulibrary\src\main\AndroidManifest.xml
+		ADDED from F:\Projects\payu-non-seamless\payulibrary\src\main\AndroidManifest.xml:1:11-40
+		INJECTED from F:\Projects\payu-non-seamless\payulibrary\src\main\AndroidManifest.xml
+		INJECTED from F:\Projects\payu-non-seamless\payulibrary\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from F:\Projects\Demo\payulibrary\src\main\AndroidManifest.xml
-		ADDED from F:\Projects\Demo\payulibrary\src\main\AndroidManifest.xml:1:1-43
-		INJECTED from F:\Projects\Demo\payulibrary\src\main\AndroidManifest.xml
+		INJECTED from F:\Projects\payu-non-seamless\payulibrary\src\main\AndroidManifest.xml
+		ADDED from F:\Projects\payu-non-seamless\payulibrary\src\main\AndroidManifest.xml:1:1-43
+		INJECTED from F:\Projects\payu-non-seamless\payulibrary\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\Projects\payu-non-seamless\payulibrary\src\main\AndroidManifest.xml:1:1-43
 	android:versionCode
-		INJECTED from F:\Projects\Demo\payulibrary\src\main\AndroidManifest.xml
-		ADDED from F:\Projects\Demo\payulibrary\src\main\AndroidManifest.xml:1:1-43
-		INJECTED from F:\Projects\Demo\payulibrary\src\main\AndroidManifest.xml
+		INJECTED from F:\Projects\payu-non-seamless\payulibrary\src\main\AndroidManifest.xml
+		ADDED from F:\Projects\payu-non-seamless\payulibrary\src\main\AndroidManifest.xml:1:1-43
+		INJECTED from F:\Projects\payu-non-seamless\payulibrary\src\main\AndroidManifest.xml
 uses-sdk
-INJECTED from F:\Projects\Demo\payulibrary\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from F:\Projects\Demo\payulibrary\src\main\AndroidManifest.xml
-INJECTED from F:\Projects\Demo\payulibrary\src\main\AndroidManifest.xml
-INJECTED from F:\Projects\Demo\payulibrary\src\main\AndroidManifest.xml
-INJECTED from F:\Projects\Demo\payulibrary\src\main\AndroidManifest.xml
+INJECTED from F:\Projects\payu-non-seamless\payulibrary\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\Projects\payu-non-seamless\payulibrary\src\main\AndroidManifest.xml
+INJECTED from F:\Projects\payu-non-seamless\payulibrary\src\main\AndroidManifest.xml
+INJECTED from F:\Projects\payu-non-seamless\payulibrary\src\main\AndroidManifest.xml
+INJECTED from F:\Projects\payu-non-seamless\payulibrary\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from F:\Projects\Demo\payulibrary\src\main\AndroidManifest.xml
-		ADDED from F:\Projects\Demo\payulibrary\src\main\AndroidManifest.xml
-		INJECTED from F:\Projects\Demo\payulibrary\src\main\AndroidManifest.xml
+		INJECTED from F:\Projects\payu-non-seamless\payulibrary\src\main\AndroidManifest.xml
+		ADDED from F:\Projects\payu-non-seamless\payulibrary\src\main\AndroidManifest.xml
+		INJECTED from F:\Projects\payu-non-seamless\payulibrary\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from F:\Projects\Demo\payulibrary\src\main\AndroidManifest.xml
-		ADDED from F:\Projects\Demo\payulibrary\src\main\AndroidManifest.xml
-		INJECTED from F:\Projects\Demo\payulibrary\src\main\AndroidManifest.xml
+		INJECTED from F:\Projects\payu-non-seamless\payulibrary\src\main\AndroidManifest.xml
+		ADDED from F:\Projects\payu-non-seamless\payulibrary\src\main\AndroidManifest.xml
+		INJECTED from F:\Projects\payu-non-seamless\payulibrary\src\main\AndroidManifest.xml
